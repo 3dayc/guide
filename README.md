@@ -1,2 +1,2 @@
 # Project Guide
-wiki
+[Wiki](https://github.com/hoonlocal/project-guide/wiki)
